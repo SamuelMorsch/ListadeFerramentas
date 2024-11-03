@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570432907527",
+    "project_id": "trabalhon2sam",
+    "storage_bucket": "trabalhon2sam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570432907527:android:4ddc2b94dde6d7f2d6fda2",
+        "android_client_info": {
+          "package_name": "com.samuel.listadeferramentas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQdI4GjJQkFXE4xW_-3LqF2-CG5yVrlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
